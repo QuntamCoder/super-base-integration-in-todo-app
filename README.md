@@ -2,7 +2,7 @@
 
 A modern, full-stack todo application built with React and Supabase. This project demonstrates real-time database operations, responsive design, and deployment to GitHub Pages.
 
-![Todo App Demo](https://img.shields.io/badge/Demo-Live-brightgreen)
+![Todo App Demo](https://quntamcoder.github.io/super-base-integration-in-todo-app/)
 ![React](https://img.shields.io/badge/React-18+-blue)
 ![Supabase](https://img.shields.io/badge/Supabase-Powered-green)
 
