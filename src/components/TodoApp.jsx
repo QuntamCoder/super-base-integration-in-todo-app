@@ -277,9 +277,8 @@ function TodoApp() {
           <div className="footer-section">
             <h4>Connect</h4>
             <div className="social-links">
-              <a href="#" className="social-link">GitHub</a>
-              <a href="#" className="social-link">Twitter</a>
-              <a href="#" className="social-link">LinkedIn</a>
+              <a href="https://github.com/QuntamCoder" className="social-link">GitHub</a>
+              <a href="https://www.linkedin.com/in/amol-jadhav-04936925a/" className="social-link">LinkedIn</a>
             </div>
           </div>
           <div className="footer-section">
