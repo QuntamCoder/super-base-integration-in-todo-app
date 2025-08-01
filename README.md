@@ -1,12 +1,40 @@
-# React + Vite
+# 🚀 React Todo App with Supabase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, full-stack todo application built with React and Supabase. This project demonstrates real-time database operations, responsive design, and deployment to GitHub Pages.
 
-Currently, two official plugins are available:
+![Todo App Demo](https://img.shields.io/badge/Demo-Live-brightgreen)
+![React](https://img.shields.io/badge/React-18+-blue)
+![Supabase](https://img.shields.io/badge/Supabase-Powered-green)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- ✅ **Create** new todos
+- ✅ **Read** todos from database
+- ✅ **Update** todo completion status
+- ✅ **Delete** todos
+- ✅ Real-time database integration
+- ✅ Responsive design
+- ✅ Error handling and loading states
+- ✅ Clean, modern UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **Frontend**: React 18+
+- **Database**: Supabase (PostgreSQL)
+- **Styling**: CSS3
+- **Deployment**: GitHub Pages
+- **Package Manager**: npm
+
+## 🚀 Quick Start
+
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm or yarn
+- Supabase account (free)
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/QuntamCoder/your-repo-name.git
+cd your-repo-name
